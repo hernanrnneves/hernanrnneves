@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Hernán Neves
 
-<!--
-**hernanrnneves/hernanrnneves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador en formación | 🚀 Apasionado por la programación y la tecnología
+🎓 Estudiante de informática | 📍 Argentina
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías y herramientas
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Pascal](https://img.shields.io/badge/Pascal-blue?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📂 Proyectos destacados
+- 🎮 [**Pokebattle**](https://github.com/hernannneves/Pocketbattle): Juego de cartas estilo Pokémon realizado con **PHP + React**.
+- 🌐 [**Portafolio**](https://github.com/hernannneves/Portafolio): Mi portafolio personal, donde muestro proyectos y habilidades.
+- 📚 [**Taller de Programación**](https://github.com/hernannneves/Taller-de-Programacion): Ejercicios en Pascal y fundamentos de programación.
+- ☕ [**ayed2025**](https://github.com/hernannneves/ayed2025): Trabajos prácticos de Algoritmos y Estructuras de Datos en Java.
+
+---
+
+## 📊 Mis estadísticas en GitHub
+![Hernan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hernannneves&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hernannneves&layout=compact&theme=tokyonight)
+
+---
+
+## 🌱 Sobre mí
+- 🚀 Siempre aprendiendo nuevas tecnologías.
+- 📖 Me gusta aplicar lo que estudio en proyectos propios.
+- 🎮 Fan de los juegos y de crear aplicaciones interactivas.
+- 🤝 Abierto a colaborar en proyectos interesantes.
+
+---
+
+## 🌐 Conectemos
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
