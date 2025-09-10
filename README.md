@@ -18,10 +18,10 @@
 ---
 
 ## 📂 Proyectos destacados
-- 🎮 [**Pokebattle**](https://github.com/hernannneves/Pocketbattle): Juego de cartas estilo Pokémon realizado con **PHP + React**.
-- 🌐 [**Portafolio**](https://github.com/hernannneves/Portafolio): Mi portafolio personal, donde muestro proyectos y habilidades.
-- 📚 [**Taller de Programación**](https://github.com/hernannneves/Taller-de-Programacion): Ejercicios en Pascal y fundamentos de programación.
-- ☕ [**ayed2025**](https://github.com/hernannneves/ayed2025): Trabajos prácticos de Algoritmos y Estructuras de Datos en Java.
+- 🎮 [**Pokebattle**](https://github.com/hernanrnneves/Pokebattle): Juego de cartas estilo Pokémon realizado con **PHP + React**.
+- 🌐 [**Portafolio**](https://github.com/hernanrnneves/Portafolio): Mi portafolio personal, donde muestro proyectos y habilidades.
+- 📚 [**Taller de Programación**](https://github.com/hernanrnneves/Taller-de-Programacion): Ejercicios en Pascal y fundamentos de programación.
+- ☕ [**ayed2025**](https://github.com/hernanrnneves/ayed2025): Trabajos prácticos de Algoritmos y Estructuras de Datos en Java.
 
 ---
 
