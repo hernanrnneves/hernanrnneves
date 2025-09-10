@@ -25,18 +25,11 @@
 
 ---
 
-## 📊 Mis estadísticas en GitHub
-![Hernan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hernannneves&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hernannneves&layout=compact&theme=tokyonight)
-
----
-
 ## 🌱 Sobre mí
 - 🚀 Siempre aprendiendo nuevas tecnologías.
 - 📖 Me gusta aplicar lo que estudio en proyectos propios.
-- 🎮 Fan de los juegos y de crear aplicaciones interactivas.
-- 🤝 Abierto a colaborar en proyectos interesantes.
+-  Trabajo en equipo y adaptabilidad.
+-  Resolución de problemas técnicos.
 
 ---
 
